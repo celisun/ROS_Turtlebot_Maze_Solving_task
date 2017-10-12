@@ -1,5 +1,5 @@
 ##  @ Original author: Xinyi Jiang, Jiaming Xu, Ben Winschel     ##
-##  @ Revised and Refactored: Celi Sun, Alex Hu
+##  @ Revised : Celi Sun
 ##  @ Oct 2017, CS department Brandeis University                ##
 
 import rospy
