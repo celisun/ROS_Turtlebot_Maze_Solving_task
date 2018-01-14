@@ -2,7 +2,7 @@
 Exemplary code for CS 117a Autonomous Robotics Lab 
 @ Celi Sun @ Nov, 2017 @ Brandeis university 
 
-To nagivate turtlebot solving a maze, we use: 
+To nagivate turtlebot solving a maze, we have: 
 
 - main
 - scan twist center control
