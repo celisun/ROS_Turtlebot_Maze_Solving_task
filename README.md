@@ -1,5 +1,7 @@
 # Turtlebot Maze Solving
-Exemplary Solution for CS 117a Autonomous Robotics Lab. @Brandeis university 
+Exemplary code for CS 117a Autonomous Robotics Lab 
+
+@ Celi Sun @ Nov, 2017 @ Brandeis university 
 
 
 - main
