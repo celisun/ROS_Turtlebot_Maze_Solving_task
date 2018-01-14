@@ -1,7 +1,6 @@
 # Turtlebot Maze Solving
 Exemplary Solution for CS 117a Autonomous Robotics Lab. @Brandeis university 
-\\
-BASIC INFO
+
 
 - main
 - scan twist center control
