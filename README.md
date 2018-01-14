@@ -3,13 +3,14 @@ Exemplary code for CS 117a Autonomous Robotics Lab
 
 @ Celi Sun @ Nov, 2017 @ Brandeis university 
 
+To nagivate turtlebot solving a maze, we use: 
 
 - main
 - scan twist center control
 - policy
 - helper controller
 
-Here we have a scan twist center control that is receiving messages, processing message raw data, and publishing reaction messages once activated. It is also registered with a policy and an optional helper controller to help it make decisions of what action to take in response to the incoming message it receives, and therefore, eventually, navigates a turtlebot out of maze.
+The scan twist center control is receiving messages, processing message raw data, and publishing reaction messages once activated. It is also registered with a policy and an optional helper controller to help it make decisions of what action to take in response to the incoming message it receives, and therefore, eventually, navigates a turtlebot out of maze.
 
 The repo here gives the exemplary code of solution and the default policy we provide is LeftOrRightHandRule, but you are more than welcomed to add your own policies (extends our Policy class). To add, put your policy script in the policy folder, and make the center control "know" it, and get it registered in the constructor to make it work.
  
