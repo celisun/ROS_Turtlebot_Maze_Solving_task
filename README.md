@@ -1,4 +1,4 @@
-# Turtlebot Maze Solving
+# Turtlebot Maze Solving with ROS
 Exemplary code for CS 117a Autonomous Robotics Lab 
 @ Celi Sun @ Nov, 2017 @ Brandeis university 
 
