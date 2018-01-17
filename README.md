@@ -28,7 +28,9 @@ Go back to catkin_ws and build the packages in the workspace by running catkin_m
 $ cd ..
 $ catkin_make
 ```
-#### Configure IP address of labtop/turtlebot for ROS
+#### Configure IP address of labtop & turtlebot for ROS
+To use ros to control your turtlebot, we need to first set up the connection between turtlebot and roscore on your laptop by configuring the IP address for each other.
+
 On terminal,
 ```
 $ ifconfig
@@ -39,7 +41,7 @@ Then, set up with the IP address you found
 ```
 $ gedit ~/.bashrc
 ```
-In pop-up .bashrc file, change the address of ROS_MASTER_URI (where the ros core is) and ROS_HOSTNAME (where your labtop is) to the IP address of your labtop (but remain the port number, in this example '11311'). For example, if your laptop IP address is 129.64.147.246, change the following as:
+In pop-up .bashrc file, change the address of ROS_MASTER_URI (where the ros core is) and ROS_HOSTNAME (where your labtop is, can be same as ros core), but remain the port number, in this example '11311', unchanged. For example, if your laptop IP address is 129.64.147.246, change the following as:
 ```
 export ROS_MASTER_URI=http://129.64.147.246:11311
 export ROS_HOSTNAME=129.64.147.246
@@ -48,6 +50,8 @@ After, close the file and source the bash file by running:
 ```
 $ source ~/.bashrc
 ```
+Do the same for your turtlebot, instead for ROS_MASTER_URI is where the ros core is and ROS_HOSTNAME is the IP address of the turtlebot itself.
+
 #### Ready to run
 ```
 rosrun CourseExemplary_TurtlebotMazeSolving main
