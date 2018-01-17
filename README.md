@@ -53,6 +53,7 @@ $ source ~/.bashrc
 Do the same on your turtlebot, however while the master IP ROS_MASTER_URI is still where the ros core is, ROS_HOSTNAME is the IP address of the turtlebot itself (can be checked out by `ifconfig`).
 
 #### Ready to run
+Launch your turlebot and run the solution:
 ```
 rosrun CourseExemplary_TurtlebotMazeSolving main
 ```
