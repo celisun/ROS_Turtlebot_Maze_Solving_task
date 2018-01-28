@@ -1,6 +1,7 @@
 # Turtlebot Maze Solving with ROS
-Exemplary code for CS 117a Autonomous Robotics Lab 
-@ Celi Sun @ Nov, 2017 @ Brandeis university 
+Exemplary code for **[Autonomous Robotics Lab](http://campusrover.org.s3-website-us-west-2.amazonaws.com)** 
+
+@ Celi Sun  @ Nov, 2017  @ Brandeis University
 
 To nagivate turtlebot solving a maze, we have: 
 
