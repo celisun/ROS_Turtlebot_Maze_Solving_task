@@ -1,5 +1,5 @@
 # Turtlebot Maze Solving with ROS
-Exemplary code for **[Autonomous Robotics Lab](http://campusrover.org.s3-website-us-west-2.amazonaws.com)** 
+Exemplary code **[Autonomous Robotics Lab](http://campusrover.org.s3-website-us-west-2.amazonaws.com)** 
 
 @ Celi Sun  @ Nov, 2017  @ Brandeis University
 
