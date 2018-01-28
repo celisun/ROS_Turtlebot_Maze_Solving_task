@@ -17,6 +17,7 @@ The repo here gives the exemplary code of solution and the default policy we pro
 Oct/2017
 
 
+****
 ### Run solution on your own labtop
 #### Clone repository
 You can clone this resiporoty by git to your own workspace by:
