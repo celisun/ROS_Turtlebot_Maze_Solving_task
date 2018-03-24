@@ -16,7 +16,7 @@ The repo here gives the exemplary code of solution and the default policy we pro
  
 Oct/2017
 
-<img src="https://raw.githubusercontent.com/celisun/ROS_Turtlebot_Maze_Solving_task/master/src/tb3-LABEL.png" width="180"> 
+<img src="https://raw.githubusercontent.com/celisun/ROS_Turtlebot_Maze_Solving_task/master/pic/tb3-LABEL.png" width="180"> 
 
 
 ****
